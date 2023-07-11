@@ -1,2 +1,2 @@
 # java-mahjong-game
-Desktop Mahjong Game
+MahJong game I made for CS3230.  
